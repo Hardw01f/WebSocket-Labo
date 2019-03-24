@@ -1,4 +1,4 @@
 
-labo/node.js/package-lock.json
-labo/node.js/package.json
-labo/node.js/node_modules
+./node.js/package-lock.json
+./node.js/package.json
+./node.js/node_modules
